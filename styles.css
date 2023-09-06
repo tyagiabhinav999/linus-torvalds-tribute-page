@@ -3,6 +3,14 @@
     --body-color: #918ca4;
 }
 
-header > h1{
+.heading {
     color: var(--headings-color);
+}
+
+.body {
+    color: var(--body-color);
+}
+
+main > p{
+    color: var(--body-color);
 }
