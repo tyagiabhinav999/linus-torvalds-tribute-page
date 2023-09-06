@@ -1,0 +1,8 @@
+:root {
+    --headings-color: #1b0760;
+    --body-color: #918ca4;
+}
+
+header > h1{
+    color: var(--headings-color);
+}
